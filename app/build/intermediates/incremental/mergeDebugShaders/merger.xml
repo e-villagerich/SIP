@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Android\Projects\sip\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\Android\Projects\sip\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Android\projects\SIP\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Android\projects\SIP\app\src\debug\shaders"/></dataSet></merger>

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "D:\\Android\\Projects\\sip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable-v21\\avd_hide_password.xml"
     }
 ]

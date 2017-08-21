@@ -3,156 +3,165 @@
 
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\etv\.android\build-cache\90a6e3ebc8510c2cbbfb21a25b8a247e3f7669be\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b1a44bf21969d8597238a01d3733a1d65279be88\classes.dex" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eef91df8b32eb78f04345584ce7c553ec61d75b0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_facfbd3d0c9289875ed1e06c0aab8cd1c3f0012e\classes.dex" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jar="C:\Android\projects\SIP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_053d431190d44f31891d4ae327a19e243234cc8e\classes.dex" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_01e62016ef79cac722e41208a404c33b907e8628\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jar="C:\Users\etv\.android\build-cache\2cb882df4e6886336969a57a342c36e70cd4a5f8\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8e49a3a3f5abe2abba65832878ff27d6df7ee127\classes.dex" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2274f6de0d05e250de1d7fdcd87f06d7b2598571\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="C:\Users\etv\.android\build-cache\8754cdf45784c3732b42a90b7c777cdb9f8b0a75\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_402164e99c5b056270ecc5420ff6d3ba54e85ec4\classes.dex" />
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2f384013f928b715b12e7cf1fb7dfc3844746b0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\etv\.android\build-cache\a187ecae5645d99d11fdc1f4b986f1b27bdbca06\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f8a9e4f91ebf666970637beb572a790cf6c6e665\classes.dex" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e669c8cacba573922bdbc453dfd886c5e5c3908\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_19917d6333624f4f30a5f3790388cc670f64d5ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_add8deadc241516ae50cb559a164871023ce3033\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ec014e8284133cf5be07cddd67a41ffd9b596de6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_47f265438d95a354d16072dbca09c9675954a31d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_539dd5ffc3bd61544c6dfd0d09a2568c129b049e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="304ff41cc9c2c4d93af5e925b47dcab470dd9b3a">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_96f58695ac4305c39d42d9417d0d3d0a3702d009\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_581c72f7cb8dc9f1145da3368aff6917ab752b61\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_b071a40edf25a9444255fe37eadb114cc966ffb3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="96fdf55cea2325aaeeee13c506f615c94ed5458c">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_db6e4a67369d88f4ae3f67d3643db042b8ab9ad1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jar="C:\Users\etv\.android\build-cache\156d70e66001941bb152a46045c84038444c688f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_6d8d9ff0078297c3b976cb282c23c5691273c780\classes.dex" />
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f483720cb0cdcfd9fc99934ccaa1f84fbf9e0f8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\Projects\sip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\etv\.android\build-cache\e26b8b54f60b58e034fcc42e4f209ca9d7862f89\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="D:\Android\Projects\sip\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_571b621bb84a054fbb973cb2e077d9e6027cfe51\classes.dex" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f36ccd1a34162dede8073374327264752f4c74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\220e0b3909e41f2742bb7d1083ffbf669b4761fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bced19537fecf016f1a80e5d958cd2c8684c0de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\9926c65b1f9a75680f2c326ee86c10d73ff58a71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80350f46b94e0f60804353022230e39f01e2d35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\projects\SIP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5acfc25f19a30ece2d773e4f29b473fdb0ce1be0">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_be874e2da27c9241a41b05550044fabf3428d7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\d40fb9bef06b391e4761782babc34f58d37118f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_399e739f248b3b912419f8e1d599041f84675d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\501e8011ab9f90f3e3973520d275199ba0b4528d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5d3426b1b90821dc6a6bbe0499fc9a0c83c6893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\5c423e40cdb45bdbc2886e3f18986849bdc12924\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_027ff2fbc349fccdbbc82674863ed50027a823cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\4544cd2651a39d934197d438389b0bd0b98db35e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b59d350ba948eaf0a061ccfa88353834eca187a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\0d0aacabe5e049efaecb0ce6a10e4bdc1e2d37e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63e2cd53a3274879da305d39c4f33edf668f523d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\etv\.android\build-cache\547995b33f3355324c9405b4531c0ae95dea5147\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da2a84d027552dba0b8f16ce86bf6e9795256bfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="C:\Android\projects\SIP\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.3_cc3afaf91424e734a49c56928e36b4d96c0d272b\classes.dex" />
     </item>
 
 </items>
