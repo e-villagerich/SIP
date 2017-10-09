@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\goldensun3.jpg",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\goldensun3.jpg"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_shadow.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\button_shadow.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\5b11a318970ec8ed0a338d2c135ee7033020dbfb\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pm_button.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\pm_button.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\5b11a318970ec8ed0a338d2c135ee7033020dbfb\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\0798e3fc57abae98dc29514d7f37ab169a7c8af9\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_round.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\addstock.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\addstock.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listview.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\listview.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\0798e3fc57abae98dc29514d7f37ab169a7c8af9\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\adminlayout.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\adminlayout.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\titleview.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\titleview.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q_field.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\q_field.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\solar_energy_1.jpg",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\solar_energy_1.jpg"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\5b11a318970ec8ed0a338d2c135ee7033020dbfb\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\5b11a318970ec8ed0a338d2c135ee7033020dbfb\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\10f25ef0fdac6c3c6a9653d72b62b42dd8793736\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\10f25ef0fdac6c3c6a9653d72b62b42dd8793736\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\addstocklayer.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\addstocklayer.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\3076d3189a959190d5ce52adda29df826af53f88\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_rs.xml",
+        "source": "C:\\Android\\projects\\SIP\\app\\src\\main\\res\\drawable\\button_rs.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\10f25ef0fdac6c3c6a9653d72b62b42dd8793736\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    }
+]

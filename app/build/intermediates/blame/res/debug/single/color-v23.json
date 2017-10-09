@@ -16,16 +16,16 @@
         "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\etv\\.android\\build-cache\\2cb882df4e6886336969a57a342c36e70cd4a5f8\\output\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\etv\\.android\\build-cache\\d40fb9bef06b391e4761782babc34f58d37118f6\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Android\\projects\\SIP\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",

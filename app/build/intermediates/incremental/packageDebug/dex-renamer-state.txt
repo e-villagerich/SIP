@@ -1,7 +1,4 @@
-#Mon Aug 21 03:14:51 SGT 2017
-base.0=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be874e2da27c9241a41b05550044fabf3428d7f5
-renamed.1=classes2.dex
+#Thu Oct 05 16:35:48 SGT 2017
+base.0=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e62016ef79cac722e41208a404c33b907e8628\\classes.dex
-base.1=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e62016ef79cac722e41208a404c33b907e8628
-file.0=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be874e2da27c9241a41b05550044fabf3428d7f5\\classes.dex
+file.0=C\:\\Android\\projects\\SIP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
