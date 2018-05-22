@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:layout="http://schemas.android.com/apk/res-auto">
+
+
+    <include
+        layout="@layout/common_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout:layout_constraintEnd_toEndOf="parent"
+        layout:layout_constraintStart_toStartOf="parent"
+        layout:layout_constraintTop_toTopOf="parent">
+
+    </include>
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="164dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:visibility="visible"
+        layout:layout_constraintEnd_toEndOf="parent"
+        layout:layout_constraintHorizontal_bias="1.0"
+        layout:layout_constraintStart_toStartOf="parent"
+        layout:layout_constraintTop_toTopOf="parent"
+        tools:context="com.evillari.sip.MainActivity">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:id="@+id/minus_button"
+                android:layout_width="72dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="8dp"
+                android:onClick="minusFunction"
+                android:padding="20dp"
+                android:text="-"
+                android:textAlignment="center"
+                android:textSize="30sp">
+
+            </Button>
+
+            <EditText
+                android:id="@+id/input_q"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="8dp"
+                android:inputType="number"
+                android:padding="20dp"
+                android:text="12"
+                android:textAlignment="center"
+                android:textColor="?android:attr/editTextColor"
+                android:textSize="30sp" />
+
+
+            <Button
+                android:id="@+id/plus_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="8dp"
+                android:onClick="plusFunction"
+                android:padding="20dp"
+                android:text="+"
+                android:textAlignment="gravity"
+                android:textSize="30sp">
+
+            </Button>
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/submit_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:onClick="submitFunction"
+            android:padding="20dp"
+            android:shadowColor="@color/colorAccent"
+            android:text="SUBMIT" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_dashboard_admin"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/dashboard">
+
+        </item>
+        <item
+            android:id="@+id/menu_messenger_admin"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="@string/messenger">
+
+        </item>
+
+        <item
+            android:id="@+id/menu_create_profile_admin"
+            android:icon="@drawable/ic_person_add_black_24dp"
+            android:title="Create Profile">
+
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_about_admin"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about">
+
+        </item>
+
+        <item
+            android:id="@+id/menu_logout_admin"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="@string/logout">
+
+        </item>
+
+
+    </group>
+</menu>

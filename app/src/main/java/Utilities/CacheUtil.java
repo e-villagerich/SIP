@@ -15,7 +15,7 @@ import com.evillari.sip.R;
 
 public class CacheUtil {
 
-    public void saveSessionInfo(Context context,String token, String username,  String fname, String lname, String area ){
+    public void saveSessionInfo(Context context,String token, String username,  String fname, String lname, String area, String role){
 
         SharedPreferences sharedPref = context.getSharedPreferences(context.getResources().getString(R.string.sessionmoreinfo), Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPref.edit();
@@ -29,6 +29,7 @@ public class CacheUtil {
         editor.putString(context.getResources().getString(R.string.fname),fname);
         editor.putString(context.getResources().getString(R.string.lname), lname);
         editor.putString(context.getResources().getString(R.string.area), area);
+        editor.putString(context.getResources().getString(R.string.role), role);
 
         editor.apply();
         keyEditor.apply();
@@ -36,15 +37,95 @@ public class CacheUtil {
     }
 
 
-    public void saveAdminSession(Context context) {
+    public void saveAdminSession(Context context,String token, String username,  String fname, String lname, String area, String role) {
 
 
         SharedPreferences sharedPrefkey = context.getSharedPreferences(context.getResources().getString(R.string.login_admin_key), Context.MODE_PRIVATE);
         SharedPreferences.Editor keyEditor = sharedPrefkey.edit();
 
+        SharedPreferences sharedPref = context.getSharedPreferences(context.getResources().getString(R.string.adminsessionmoreinfo), Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPref.edit();
+
         keyEditor.putBoolean(context.getResources().getString(R.string.admin_is_logged_in),true);
+        editor.putString(context.getResources().getString(R.string.admintoken),token);
+        editor.putString(context.getResources().getString(R.string.adminusername),username);
+        editor.putString(context.getResources().getString(R.string.adminfname),fname);
+        editor.putString(context.getResources().getString(R.string.adminlname), lname);
+        editor.putString(context.getResources().getString(R.string.adminarea), area);
+        editor.putString(context.getResources().getString(R.string.adminrole), role);
+
+
+
+        keyEditor.apply();
+        editor.apply();
+
+
+    }
+
+    public String[] getSessioninfo(Context context){
+
+        String sessioninfo[] = new String[8];
+        SharedPreferences sharedPref = context.getSharedPreferences(context.getResources().getString(R.string.sessionmoreinfo), Context.MODE_PRIVATE);
+
+        String udefault = context.getResources().getString(R.string.defaultusername);
+        String fdefault = context.getResources().getString(R.string.defaultfname);
+        String ldefault = context.getResources().getString(R.string.defaultlname);
+        String adefault = context.getResources().getString(R.string.defaultarea);
+        String tdefault = context.getResources().getString(R.string.defaulttoken);
+        String rdefault = context.getResources().getString(R.string.defaultrole);
+
+        sessioninfo [1] = sharedPref.getString(context.getResources().getString(R.string.token),tdefault);
+        sessioninfo [4] = sharedPref.getString(context.getResources().getString(R.string.username),udefault);
+        sessioninfo [2] = sharedPref.getString(context.getResources().getString(R.string.fname),fdefault);
+        sessioninfo [3] = sharedPref.getString(context.getResources().getString(R.string.lname), ldefault);
+        sessioninfo [6] = sharedPref.getString(context.getResources().getString(R.string.area), adefault);
+        sessioninfo[5] = sharedPref.getString(context.getString(R.string.role),rdefault);
+
+        return sessioninfo;
+
+    }
+
+    public String[] getAdminSessioninfo(Context context){
+
+        String sessioninfo[] = new String[8];
+        SharedPreferences sharedPref = context.getSharedPreferences(context.getResources().getString(R.string.adminsessionmoreinfo), Context.MODE_PRIVATE);
+
+        String udefault = context.getResources().getString(R.string.defaultusername);
+        String fdefault = context.getResources().getString(R.string.defaultfname);
+        String ldefault = context.getResources().getString(R.string.defaultlname);
+        String adefault = context.getResources().getString(R.string.defaultarea);
+        String tdefault = context.getResources().getString(R.string.defaulttoken);
+        String rdefault = context.getResources().getString(R.string.defaultrole);
+
+        sessioninfo [1] = sharedPref.getString(context.getResources().getString(R.string.admintoken),tdefault);
+        sessioninfo [4] = sharedPref.getString(context.getResources().getString(R.string.adminusername),udefault);
+        sessioninfo [2] = sharedPref.getString(context.getResources().getString(R.string.adminfname),fdefault);
+        sessioninfo [3] = sharedPref.getString(context.getResources().getString(R.string.adminlname), ldefault);
+        sessioninfo [6] = sharedPref.getString(context.getResources().getString(R.string.adminarea), adefault);
+        sessioninfo[5] = sharedPref.getString(context.getString(R.string.adminrole),rdefault);
+
+        return sessioninfo;
+
+    }
+
+
+
+    public static void adminClearSession(Context context){
+
+        SharedPreferences sharedPrefkey = context.getSharedPreferences(context.getResources().getString(R.string.login_admin_key), Context.MODE_PRIVATE);
+        SharedPreferences.Editor keyEditor = sharedPrefkey.edit();
+        keyEditor.putBoolean(context.getResources().getString(R.string.admin_is_logged_in), false);
+
+
+        SharedPreferences sessionsharedPref = context.getSharedPreferences(context.getResources().getString(R.string.adminsessionmoreinfo), Context.MODE_PRIVATE);
+        SharedPreferences.Editor sessioneditor = sessionsharedPref.edit();
+
+        keyEditor.clear();
         keyEditor.apply();
 
+
+        sessioneditor.clear();
+        sessioneditor.apply();
 
     }
 
@@ -70,37 +151,9 @@ public class CacheUtil {
 
     }
 
-    public static void adminClearSession(Context context){
 
-        SharedPreferences sharedPrefkey = context.getSharedPreferences(context.getResources().getString(R.string.login_admin_key), Context.MODE_PRIVATE);
-        SharedPreferences.Editor keyEditor = sharedPrefkey.edit();
-        keyEditor.putBoolean(context.getResources().getString(R.string.admin_is_logged_in), false);
 
-        keyEditor.clear();
-        keyEditor.apply();
 
-    }
-
-    public String[] getSessioninfo(Context context){
-
-        String sessioninfo[] = new String[8];
-        SharedPreferences sharedPref = context.getSharedPreferences(context.getResources().getString(R.string.sessionmoreinfo), Context.MODE_PRIVATE);
-
-        String udefault = context.getResources().getString(R.string.defaultusername);
-        String fdefault = context.getResources().getString(R.string.defaultfname);
-        String ldefault = context.getResources().getString(R.string.defaultlname);
-        String adefault = context.getResources().getString(R.string.defaultarea);
-        String tdefault = context.getResources().getString(R.string.defaulttoken);
-
-        sessioninfo [1] = sharedPref.getString(context.getResources().getString(R.string.token),tdefault);
-        sessioninfo [4] = sharedPref.getString(context.getResources().getString(R.string.username),udefault);
-        sessioninfo [2] = sharedPref.getString(context.getResources().getString(R.string.fname),fdefault);
-        sessioninfo [3] = sharedPref.getString(context.getResources().getString(R.string.lname), ldefault);
-        sessioninfo [6] = sharedPref.getString(context.getResources().getString(R.string.area), adefault);
-
-        return sessioninfo;
-
-    }
 
 
     public boolean sessionStatus(Context context){
@@ -138,7 +191,5 @@ public class CacheUtil {
         sessionitems[2] = sharedPref.getString(context.getResources().getString(R.string.soldprice), soldpricedefault);
         return sessionitems;
     }
-
-
 
 }

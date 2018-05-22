@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "410701530577",
+    "firebase_url": "https://solarice-776a3.firebaseio.com",
+    "project_id": "solarice-776a3",
+    "storage_bucket": "solarice-776a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410701530577:android:3815c11717a08a40",
+        "android_client_info": {
+          "package_name": "com.evillari.sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410701530577-q9v0rn8vetgdcbeikh48dgjm5crnj77m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evillari.sip",
+            "certificate_hash": "8376092721d9e09dadb570c662dcc66ff86d8494"
+          }
+        },
+        {
+          "client_id": "410701530577-5bsg65oi2le0vsu1l4qll30e1cbn4f8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evillari.sip",
+            "certificate_hash": "9ac879460a86753fe80ae7775aa5f2c95ba36562"
+          }
+        },
+        {
+          "client_id": "410701530577-q8mji9kui7s51v7rind52fq8urs5q7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLY45Oo9l6nH_7-zen_FrNSDX2lPY5xp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410701530577-q8mji9kui7s51v7rind52fq8urs5q7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

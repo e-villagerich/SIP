@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Solarice</string>
-    <string name="logout">Logout</string>
+    <string name="app_name">SIFOC</string>
     <string name="login_info_key">Login_Info_Key</string>
     <string name="login_admin_key">Login_Admin_Key</string>
     <string name="is_logged_in">False</string>
@@ -19,14 +18,30 @@
     <string name="fname">fname</string>
     <string name="lname">lname</string>
     <string name="area">area</string>
+    <string name="role">role</string>
+    <string name="adminsessionmoreinfo">adminsessionmoreinfo</string>
+    <string name="admintoken">admintoken</string>
+    <string name="adminfname">adminfname</string>
+    <string name="adminlname">adminlname</string>
+    <string name="adminarea">adminarea</string>
+    <string name="adminrole">adminrole</string>
+    <string name="adminusername">adminusername</string>
     <string name="defaultusername">username</string>
     <string name="defaultfname">fname</string>
     <string name="defaultlname">lname</string>
     <string name="defaultarea">area</string>
+    <string name="defaultrole">role</string>
     <string name="facebook_app_id">1791928651106814</string>
     <string name="fb_login_protocol_scheme">fb1791928651106814</string>
-
-
+    <string name="dashboard">Dashboard</string>
+    <string name="sellice">Sell Ice</string>
+    <string name="addstock">Add Stock</string>
+    <string name="messenger">Messenger</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="Send">Send</string>
+    <string name="Message">Type something to send.</string>
+    <string name="logoutdialog">Please confirm if you want to logout.</string>
     <!-- Strings related to login -->
 
     <!-- TODO: Remove or change this placeholder text -->

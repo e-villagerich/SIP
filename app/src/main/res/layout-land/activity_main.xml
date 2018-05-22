@@ -101,10 +101,9 @@
                     android:layout_height="wrap_content">
 
                     <TextView
-                        android:id="@+id/tv_label_login"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="LoginID: "
+                        android:text="Name: "
                         android:textColor="@color/color72" />
 
                     <TextView
@@ -124,7 +123,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Name: "
+                        android:text="Email: "
                         android:textColor="@color/color72" />
 
                     <TextView
@@ -169,7 +168,6 @@
 
         <LinearLayout
 
-            android:id="@+id/counter_panel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
@@ -275,7 +273,6 @@
             android:textAlignment="center"
             android:drawablePadding="4dp"
             android:background="@drawable/addstock"
-            android:onClick="addInventory"
             android:layout_weight="0.1"
             android:shadowColor="@color/color70" />
 
@@ -314,7 +311,6 @@
                 android:layout_weight="0.30"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:onClick="minusFunction"
                 android:drawableRight="@drawable/ic_chevron_left_black_24dp"
                 android:padding="10dp"
                 android:text="-"
@@ -344,7 +340,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:onClick="plusFunction"
                 android:drawableLeft="@drawable/ic_chevron_right_black_24dp"
                 android:padding="10dp"
                 android:text="+"
@@ -363,7 +358,6 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_rs"
-            android:onClick="submitFunction"
             android:padding="10dp"
             android:shadowColor="@color/colorAccent"
             android:text="SUBMIT" />

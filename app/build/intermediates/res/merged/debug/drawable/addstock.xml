@@ -1,9 +1,0 @@
-<layer-list
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:drawable="@drawable/addstocklayer"
-        android:bottom="4px" />
-
-    <item android:drawable="@drawable/ic_cloud_upload_black_24dp"/>
-
-</layer-list>
